@@ -13,7 +13,7 @@ body {
     height: 100vh;
 
     /* Cria um gradiente de cores de cima para baixo como plano de fundo */
-    background: linear-gradient(to bottom, #1d2b53, #7e2553, #ff5555);
+    background: linear-gradient(to bottom, #531d2d, #9b5662, #cea5a5);
 
     /* Define o tamanho de fundo para cobrir toda a área disponível */
     background-size: cover;
@@ -51,7 +51,7 @@ body {
 
 /* Define a cor do texto para elementos com a classe .titulo-destaque como d38b06 (laranja) */
 .titulo-destaque {
-    color: #d38b06;
+    color: #6b2f2f;
 }
 
 /* Estilos para elementos com a classe .conteudo */
@@ -158,10 +158,10 @@ body {
 /* Estilos para elementos com a classe .botao1 */
 .botao1 {
     /* Define a cor de fundo como preto */
-    background-color: #000;
+    background-color: #eed5d5;
 
     /* Define a cor do texto como laranja */
-    color: #ff5500;
+    color: #996868;
 
     /* Define a largura do elemento como 500px */
     width: 500px;
@@ -176,7 +176,7 @@ body {
     align-items: center;
 
     /* Adiciona uma borda de 2px sólida laranja */
-    border: 2px solid #ff5500;
+    border: 2px solid #c58a9e;
 
     /* Define um raio de borda de 50px para criar um botão circular */
     border-radius: 50px;
@@ -264,8 +264,8 @@ body {
 /* Inicio da estilização ancora 2(botao2) */
 
 .botao2 {
-    background-color: #000;
-    color: #0077B5; /* Cor padrão do LinkedIn */
+    background-color: #e2bfbf;
+    color: #ad6d76; /* Cor padrão do LinkedIn */
     width: 500px;
     height: 80px;
     align-items: center;
@@ -358,15 +358,15 @@ body {
 /* inicio estilização ancora4(botao4) */
 
 .botao4 {
-    background-color: #000;
+    background-color: #643e3e;
     align-items: center;
-    color: #25D366; /* Cor padrão do WhatsApp */
+    color: #ffffff; /* Cor padrão do WhatsApp */
     width: 500px;   
     height: 80px; 
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid#25D366;
+    border: 2px solid#ffffff;
     border-radius: 50px;
     font-size: 24px;
     padding: 15px 0;
@@ -406,15 +406,15 @@ body {
 /* inicio estilização ancora5(botao5) */
 
 .botao5 {
-    background-color: #000;
+    background-color: #5f3636;
     align-items: center;
-    color: #b61ca9; /* Cor padrão do Instagram */
+    color: #ffffff; /* Cor padrão do Instagram */
     width: 500px;   
     height: 80px; 
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid#b61ca9;
+    border: 2px solid#dacad8;
     border-radius: 50px;
     font-size: 24px;
     padding: 15px 0;
@@ -434,7 +434,7 @@ body {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(45deg, transparent, #2a0887);
+    background: linear-gradient(45deg, transparent, #f3f1f8);
     transition: 0.5s;
 }
 
@@ -520,7 +520,7 @@ body {
     height: 10px;
 
     /* Adiciona uma borda de 2px sólida laranja aos pseudo-elementos */
-    border: 2px solid #ff5500;
+    border: 2px solid #fcf7f4;
 
     /* Define o fundo dos pseudo-elementos como transparente */
     background-color: transparent;
@@ -578,7 +578,7 @@ body {
 
 /* Estilo de link no rodapé */
 .rodape a:hover {
-    color: #FFA500;
+    color: #f1f1f1;
 }
 
 
